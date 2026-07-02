@@ -17,7 +17,7 @@ Rather than summarizing, this paper verifies and challenges the original:
 - Corrected an inaccuracy in the paper's TE/TM polarization terminology.
 - Worked around real hardware limits: the far-field data ran to 17000x17000 Float64 matrices (~50 GB), handled by downsampling, with the limits of what my hardware could integrate stated plainly.
 
-The full-wave Ansys Lumerical simulations (the meta-atom and device sweeps in the numerical-results chapter) were built and run in collaboration with a colleague, as credited in the paper; the MATLAB propagation reproductions, the CoPE/CrPE analysis, and the critique are my own.
+The MATLAB reproduction and analysis code is included in this repo (Huygens-Fresnel propagation for the axicon and metalens, and the CoPE/CrPE and design-sweep analysis). The full-wave Ansys Lumerical simulations that produce the meta-atom sweep data were built and run in collaboration with a colleague, as credited in the paper; the MATLAB propagation reproductions, the CoPE/CrPE analysis, and the critique are my own.
 
 ### Tandem Organic Solar Cells
 A 26-page review of the device physics and engineering of series-connected tandem organic photovoltaic cells (OSCs), argued from first principles.
