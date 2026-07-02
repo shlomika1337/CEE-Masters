@@ -7,7 +7,7 @@ These are not summaries. Each builds the physics from first principles, and the 
 ## Reports
 
 ### Optics of Metasurfaces and Geometric Phase Applications
-An independent reproduction and critique of Lin, Fan, Hasman, and Brongersma, "Dielectric gradient metasurface optical elements," *Science* 345(6194), 2014, a landmark flat-optics paper on silicon-nanobeam metasurfaces that use the geometric Pancharatnam-Berry phase for wavefront control.
+An independent reproduction and critique of Lin, Fan, Hasman, and Brongersma, "Dielectric gradient metasurface optical elements," *Science* 345(6194), 2014, a landmark flat-optics paper on silicon-nanobeam metasurfaces that use the geometric Pancharatnam-Berry phase for wavefront control and tuning.
 
 Rather than summarizing, this paper verifies and challenges the original:
 
